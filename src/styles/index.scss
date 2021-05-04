@@ -11,6 +11,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
 h1{
     color: white;
 }
@@ -44,4 +45,16 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+#segundaPg{
+    // display: none;
+}
+
+.boton{
+    margin-left: 660px;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
 }
